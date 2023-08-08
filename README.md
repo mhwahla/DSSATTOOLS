@@ -1,2 +1,7 @@
-# DSSATTOOLS
-DSSAT library is a collection of classes that allows the user to create low-code scripts to run simulations with DSSAT model. The library structure allows to execute DSSAT model based on four input classes: Crop, SoilProfile, WeatherStation and Management.  The simulation environment is represented by the DSSAT Class. 
+# DSSATTools_notebooks
+Notebooks showing some examples of DSSATTools usage
+
+## Notebooks
+1. Example 1: basic usage of the library
+2. Example 2: runing a Perennial forage (Alfalfa).
+3. Example 3: paralel runs using threading.
